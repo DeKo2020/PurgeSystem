@@ -1,0 +1,7 @@
+name: PurgeReport
+author: DeKo
+version: 1.0
+main: de.deko.purgesystem.Main
+
+commands:
+  preport:
